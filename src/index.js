@@ -5,7 +5,7 @@ import { crearTodoHtml } from './js/componentes';
 
 export const todoList = new TodoList();
 
-console.log(todoList.todos);
+//console.log(todoList.todos);
 
 todoList.todos.forEach(todo => crearTodoHtml(todo));
 // Tambien se puede poner asi: (para un argumento)
@@ -15,4 +15,4 @@ todoList.todos.forEach(todo => crearTodoHtml(todo));
 // todoList.nuevoTodo( newTodo );
 
 
-console.log('todos', todoList.todos);
+//console.log('todos', todoList.todos);
