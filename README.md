@@ -1,6 +1,6 @@
-# Webpack Starter
+# Proyecto de TODOs en Vanilla Javascript con webpack
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
+Proyecto de todos
 
 ### Notas:
 
